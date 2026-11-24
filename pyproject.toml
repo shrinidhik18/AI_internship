@@ -1,0 +1,17 @@
+[project]
+name = "ai-internship"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Shrinidhi Katti", email = "shrinidhipkatti@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = []
+
+[project.scripts]
+ai-internship = "ai_internship:main"
+
+[build-system]
+requires = ["uv_build>=0.11.28,<0.12.0"]
+build-backend = "uv_build"
