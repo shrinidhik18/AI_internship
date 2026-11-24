@@ -52,3 +52,5 @@ python -m ai_internship
 ## Author
 
 Shrinidhi Katti
+
+- Multiplication of two numbers
