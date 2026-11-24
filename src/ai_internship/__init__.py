@@ -12,7 +12,7 @@ def multiply(a, b):
 
 
 def main():
-    print("===== SIMPLE CALCULATOR =====")
+   print("===== SIMPLE CALCULATOR v2 =====")
 
     a = float(input("Enter first number: "))
     b = float(input("Enter second number: "))
